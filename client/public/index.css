@@ -1,0 +1,10 @@
+#root {
+    /* background: linear-gradient(to bottom, rgb(40, 5, 61), white); */
+    background: linear-gradient(to bottom, rgb(3, 5, 119), white);
+
+}
+
+*{
+    padding: 0px;
+    margin: 0px ;
+}

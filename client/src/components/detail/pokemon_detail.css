@@ -1,0 +1,43 @@
+.pokeCard2 {
+    box-shadow: 0 0 15px rgb(234, 232, 241);
+    border-radius: 10%;
+    background-color: rgba(54, 54, 54, 0.377);
+    width: 300px;
+    
+    color: white ; 
+    margin-left: 700px;
+    margin-bottom: 700px;
+    height: 350px
+}
+.pokeCard2:hover {
+  transform: scale(1.2);
+  }
+
+.data2 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 20px;
+    font-size: 22px;
+    margin-top: 200px;
+    font-size: 27px;
+  }
+  
+.title {
+    background-color:rgb(12, 11, 88);
+    color: white;
+    display: flex;
+    justify-content: center;
+  }
+
+.colorAll {
+    background: linear-gradient(to bottom, rgb(11, 9, 128), white);
+    height: 100vh;
+    margin-top: auto;
+  }
+.home {
+  background-color: rgb(10, 8, 139);
+  color: white;
+  width: 100px;
+  height: 30px;
+}  

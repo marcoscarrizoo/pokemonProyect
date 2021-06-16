@@ -1,0 +1,28 @@
+.search {
+    background-color: rgba(31, 4, 44, 0.377);
+    height: 60px;
+    box-shadow: 0 0 15px rgb(234, 232, 241);
+}
+.pokemon{
+    background-color: rgb(18, 18, 133);
+    color: white;
+    display: flex;
+    margin-right: auto;
+    font-size: 35px;
+    text-decoration: none; 
+    outline: none;
+    
+}
+.nav{
+    padding-top: 10px;
+    display: flex;
+    justify-content: flex-end;
+    height: 40px;
+    border-radius: 50px;
+    margin-right: 10px;
+}
+
+.boton {
+    text-decoration: none;
+    background-color: white;
+}

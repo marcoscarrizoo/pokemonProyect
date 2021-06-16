@@ -1,0 +1,13 @@
+.form {
+    box-shadow: 0 0 10px rgb(189, 187, 192);
+    background-color:  rgba(48, 48, 49, 0.336);
+    width: 267px;
+    display: flex;
+    color: white;
+    font-size: 20px;
+    height: 300px;
+    margin-top: 70px;
+}
+.in {
+    font-size: 22px;
+}
